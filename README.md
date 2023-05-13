@@ -1,7 +1,7 @@
 # food_delivery
 
 A new Flutter project.
-
+A simple food delivery application using Flutter.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
